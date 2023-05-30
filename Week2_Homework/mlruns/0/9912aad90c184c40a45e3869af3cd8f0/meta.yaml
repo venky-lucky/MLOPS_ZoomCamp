@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JOBIAK/Desktop/mlops_zoomcamp/mlruns/0/9912aad90c184c40a45e3869af3cd8f0/artifacts
+end_time: 1685440302551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9912aad90c184c40a45e3869af3cd8f0
+run_name: intelligent-shad-816
+run_uuid: 9912aad90c184c40a45e3869af3cd8f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685440292872
+status: 3
+tags: []
+user_id: JOBIAK

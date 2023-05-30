@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JOBIAK/Desktop/mlops_zoomcamp/mlruns/0/5ca55b91ec244137b76a29ec89b35e3b/artifacts
+end_time: 1685439974210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ca55b91ec244137b76a29ec89b35e3b
+run_name: chill-fowl-915
+run_uuid: 5ca55b91ec244137b76a29ec89b35e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685439962691
+status: 3
+tags: []
+user_id: JOBIAK
